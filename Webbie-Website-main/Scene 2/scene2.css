@@ -1,0 +1,22 @@
+img {
+  width: 100%;
+  vertical-align: text-bottom;
+}
+
+.container {
+  position: relative;
+}
+
+.container a {
+  position: absolute;
+  display: inline-block;
+  background-color: none;
+  opacity: 50%;
+}
+
+#next-link {
+  width: 15%;
+  height: 14%;
+  bottom: 0%;
+  right: 0%;
+}
